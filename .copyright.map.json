@@ -1,0 +1,15 @@
+[
+    "repo/efibootmgr/src/include/parse_loader_data.h",
+    "repo/efibootmgr/src/include/efi.h",
+    "repo/efibootmgr/src/include/efibootmgr.h",
+    "repo/efibootmgr/src/include/list.h",
+    "repo/efibootmgr/src/Android.mk",
+    "repo/efibootmgr/src/parse_loader_data.c",
+    "repo/efibootmgr/src/fix_coverity.h",
+    "repo/efibootmgr/src/error.h",
+    "repo/efibootmgr/src/eficonman.c",
+    "repo/efibootmgr/src/efibootnext.c",
+    "repo/efibootmgr/src/efibootdump.c",
+    "repo/efibootmgr/src/efi.c",
+    "repo/efibootmgr/src/efibootmgr.c"
+]

@@ -1,0 +1,10 @@
+#!/bin/sh
+
+
+#
+#
+#
+cd repo
+tar -czvf efibootmgr.tar.gz efibootmgr
+cd ..
+mv repo/efibootmgr.tar.gz .
